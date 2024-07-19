@@ -1,0 +1,1 @@
+<network_config><device><name>MainRouter</name><ip>10.0.0.1</ip><type>Router</type></device><device><name>CoreSwitch</name><ip>10.0.0.2</ip><type>Switch</type></device></network_config>

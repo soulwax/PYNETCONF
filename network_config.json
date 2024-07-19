@@ -1,0 +1,12 @@
+[
+  {
+    "name": "MainRouter",
+    "ip": "10.0.0.1",
+    "type": "Router"
+  },
+  {
+    "name": "CoreSwitch",
+    "ip": "10.0.0.2",
+    "type": "Switch"
+  }
+]
